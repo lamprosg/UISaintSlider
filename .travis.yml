@@ -1,0 +1,10 @@
+# references:
+# * https://www.objc.io/issues/6-build-tools/travis-ci/
+# * https://github.com/supermarin/xcpretty#usage
+
+language: objective-c
+osx_image: xcode10.1
+xcode_workspace: UISaintSlider.xcodeproj
+xcode_scheme: UISaintSlider.xcodeproj
+xcode_destination: platform=iOS Simulator,OS=12.1,name=iPhone X
+before_install:

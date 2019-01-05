@@ -28,6 +28,7 @@
 		05834F5821E0F8A700176041 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		05834F5F21E0F8F800176041 /* UISaintSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UISaintSlider.swift; sourceTree = "<group>"; };
 		05834F6121E0F9FA00176041 /* UIImage+OverlayColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+OverlayColor.swift"; sourceTree = "<group>"; };
+		059CE8CB21E14E7F0034DAD5 /* .travis.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = .travis.yml; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +69,7 @@
 				05834F5521E0F8A700176041 /* LaunchScreen.storyboard */,
 				05834F5821E0F8A700176041 /* Info.plist */,
 				055A93C021E1064D00A1F993 /* README.md */,
+				059CE8CB21E14E7F0034DAD5 /* .travis.yml */,
 			);
 			path = UISaintSlider;
 			sourceTree = "<group>";
