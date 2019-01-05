@@ -1,6 +1,6 @@
 # UISaintSlider
 
-[![Build Status](https://travis-ci.org/lamprosg/UISaintSlider.svg?branch=master)](https://travis-ci.org/lamprosg/UISaintSlider)
+<!--[![Build Status](https://travis-ci.org/lamprosg/UISaintSlider.svg?branch=master)](https://travis-ci.org/lamprosg/UISaintSlider)-->
 
 <p align="left">
 <img src="Screenshot.png" title="LazyImage" float=left>

@@ -8,5 +8,3 @@ xcode_project: UISaintSlider.xcodeproj
 xcode_scheme: UISaintSlider
 xcode_destination: platform=iOS Simulator,OS=12.1,name=iPhone X
 before_install:
-script:
-- echo "skipping tests"
