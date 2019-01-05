@@ -4,7 +4,7 @@
 
 language: objective-c
 osx_image: xcode10.1
-# xcode_workspace: UISaintSlider.xcodeproj
+xcode_project: UISaintSlider.xcodeproj
 xcode_scheme: UISaintSlider
 xcode_destination: platform=iOS Simulator,OS=12.1,name=iPhone X
 before_install:
