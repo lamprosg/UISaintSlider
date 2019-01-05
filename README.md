@@ -1,4 +1,9 @@
 # UISaintSlider
+
+<p align="left">
+<img src="Screenshot.png" title="LazyImage" float=left>
+</p>
+
 A simple UISlider subclass which adds a transparent ring around the slider's main small round image
 
 The thumb position is adjusted to start/end in the small inner circle instead of the entire thumb image.
