@@ -1,14 +1,17 @@
 # UISaintSlider
-A simple UISlider subclass with a transparent ring around the slider thumb image
+A simple UISlider subclass which adds a transparent ring around the slider's main small round image
 
+The thumb position is adjusted to start/end in the small inner circle instead of the entire thumb image.
+
+The main thumb image size and the transparent ring are both adjustable using these 2 properties
+```swift
+let dotDiameter:CGFloat = 10
+let dotSaintSizeMultiplier:CGFloat = 3
+```
+
+Simple setup for the slider
 ```swift
 @IBOutlet weak var slider: UISaintSlider!
-
-//Normal image
-imageview.image = UIImage(named:"someAsset")
-
-//Network image
-imageView.imageURL = "https://domain.com/thepathtotheimage.png"
 
 //Set the thumb Image
 let thumbImage = self.slider.createThumbImage()
