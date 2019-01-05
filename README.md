@@ -8,6 +8,8 @@ A simple UISlider subclass which adds a transparent ring around the slider's mai
 
 The thumb position is adjusted to start/end in the small inner circle instead of the entire thumb image.
 
+The thumb image color changes according the slider's tint color
+
 The main thumb image size and the transparent ring are both adjustable using these 2 properties
 ```swift
 let dotDiameter:CGFloat = 10
